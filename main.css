@@ -61,3 +61,8 @@ html {
     color: #f8f272;
     margin: 10px;
 }
+
+.icon:active {
+    position: relative;
+    top: 2px;
+}
