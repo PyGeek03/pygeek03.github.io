@@ -49,7 +49,6 @@ html {
     font-weight: 700;
     font-size: calc(1vw + 15px);
     line-height: 1.15;
-    text-transform: uppercase;
     margin-left: 15px;
     margin-right: 15px;
 }
